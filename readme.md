@@ -7,7 +7,15 @@ For an example using jQuery, [see this repo](https://github.com/ashryanbeats/csd
 
 ## Running this repo locally
 
-This repo was built using the [Meaniscule MEAN stack app generator](https://github.com/meaniscule). Be sure to do the following after cloning the repo:
+This repo was built using the [Meaniscule MEAN stack app generator](https://github.com/meaniscule). 
+
+### Requirements
+
+You'll need to [MongoDB](https://www.mongodb.org/) installed with `mongod` running to start this app.
+
+### Steps
+
+Be sure to do the following after cloning the repo:
 
 1. [Terminal tab 1] `npm install`
 1. [Terminal tab 1] `npm start`
