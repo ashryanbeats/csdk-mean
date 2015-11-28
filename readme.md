@@ -2,8 +2,10 @@
 
 This is an example of using the Creative SDK for web with Angular and MEAN stack.
 
-For an example in plain JavaScript, [see this repo](https://github.com/ashryanbeats/csdk-web-basic).
-For an example using jQuery, [see this repo](https://github.com/ashryanbeats/csdk-web-jquery).
+Other examples:
+
+- For an example in plain JavaScript, [see this repo](https://github.com/ashryanbeats/csdk-web-basic).
+- For an example using jQuery, [see this repo](https://github.com/ashryanbeats/csdk-web-jquery).
 
 ## Running this repo locally
 
